@@ -33,7 +33,7 @@
 
 # 📖 Massage Center using Django with Bootstrap! <a name="about-project"></a>
 
-**Massage Center Using Django** This is a massage center where you can reserve a service. We offer massage service, spa, aromatherapy and yoga. You can contact from the form.
+**Todo List Using Django** This is a page built with Django where you can create tasks and mark them as completed and even delete them.
 
 ## 🛠 Built With <a name="built-with"></a>
 
