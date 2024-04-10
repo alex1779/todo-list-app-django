@@ -1,4 +1,4 @@
-# TODO LIST APP 1 - DJANGO
+# New Todo List 1 - DJANGO
 
 <a name="readme-top"></a>
 
