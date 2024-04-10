@@ -31,7 +31,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Massage Center using Django with Bootstrap! <a name="about-project"></a>
+# 📖 Todo List using Django with Bootstrap! <a name="about-project"></a>
 
 **Todo List Using Django** This is a page built with Django where you can create tasks and mark them as completed and even delete them.
 
